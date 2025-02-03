@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+// API 응답 데이터를 담는 클래스 (제네릭을 사용하여 다양한 데이터 타입을 지원)
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
